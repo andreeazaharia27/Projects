@@ -1,0 +1,82 @@
+{
+  "lista_persoane": {
+    "persoanele": [
+      {
+        "id": "013",
+        "nume": "marius",
+        "oras": "bistrita",
+        "adresa": [
+          {
+            "strada": "Codrilor",
+            "casa": "24a",
+            "numar_ap": "13"
+          }
+        ],
+        "date_contact": [
+          {
+            "telefon": "01313432",
+            "email": "marius.1@yahoo.com",
+            "skype": "mari.us"
+          }
+        ]
+      },
+      {
+        "id": "019",
+        "nume": "magda",
+        "oras": "bistra",
+        "adresa": [
+          {
+            "strada": "Silvestru",
+            "casa": "298",
+            "numar_ap": "1453"
+          }
+        ],
+        "date_contact": [
+          {
+            "telefon": "013432122",
+            "email": "magda987@yahoo.com",
+            "skype": "maguta"
+          }
+        ]
+      },
+      {
+        "id": "014",
+        "nume": "anton",
+        "oras": "bucuresti",
+        "adresa": [
+          {
+            "strada": "Podrilor",
+            "casa": "251",
+            "numar_ap": "131"
+          }
+        ],
+        "date_contact": [
+          {
+            "telefon": "022313421",
+            "email": "anton1212@yahoo.com",
+            "skype": "antonnnnnn"
+          }
+        ]
+      },
+      {
+        "id": "9876",
+        "nume": "maya",
+        "oras": "new york",
+        "adresa": [
+          {
+            "strada": "Cats",
+            "casa": "290",
+            "numar_ap": "191"
+          }
+        ],
+        "date_contact": [
+          {
+            "telefon": "983276421",
+            "email": "mayaewyork2@yahoo.com",
+            "skype": "Mayaaaaaa"
+          }
+        ]
+      }
+    ]
+  }
+}

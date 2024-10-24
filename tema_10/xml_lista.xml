@@ -1,0 +1,82 @@
+<Lista_Persoane>
+    <persoana1>
+        
+        <id>013</id>
+        <nume>Marius</nume>
+        <oras>Bistrita</oras>
+    
+        <adresa>
+        <strada>Codrilor</strada>
+        <casa>24a</casa>
+        <numar_ap>13</numar_ap>
+        </adresa>
+    
+        <date_contact>
+        <telefon>01313432</telefon>
+        <email>marius.1@yahoo.com</email>
+        <skype>mari.us</skype>
+        </date_contact>
+    
+    </persoana1>
+    
+    <persoana2>
+        
+        <id>019</id>
+        <nume>Magda</nume>
+        <oras>Bistra</oras>
+    
+        <adresa>
+        <strada>Silvestru</strada>
+        <casa>298</casa>
+        <numar_ap>1453</numar_ap>
+        </adresa>
+    
+        <date_contact>
+        <telefon>013432122</telefon>
+        <email>magda987@yahoo.com</email>
+        <skype>maguta</skype>
+        </date_contact>
+    
+    </persoana2>
+    
+    <persoana3>
+        
+        <id>014</id>
+        <nume>Anton</nume>
+        <oras>Bucuresti</oras>
+    
+        <adresa>
+        <strada>Podrilor</strada>
+        <casa>271</casa>
+        <numar_ap>131</numar_ap>
+        </adresa>
+    
+        <date_contact>
+        <telefon>022313421</telefon>
+        <email>anton1212@yahoo.com</email>
+        <skype>antonnnnnn</skype>
+        </date_contact>
+        
+    </persoana3>
+    
+    <persoana4>
+        
+        <id>9876</id>
+        <nume>Maya</nume>
+        <oras>New York</oras>
+    
+        <adresa>
+        <strada>Cats</strada>
+        <casa>290</casa>
+        <numar_ap>191</numar_ap>
+        </adresa>
+    
+        <date_contact>
+        <telefon>983276421</telefon>
+        <email>mayaewyork2@yahoo.com</email>
+        <skype>Mayaaaaaa</skype>
+        </date_contact>
+        
+    </persoana4>
+    
+</Lista_Persoane>
